@@ -1,0 +1,2197 @@
+{
+  "honap": "2026-10",
+  "adag": 4,
+  "hetek": [
+    {
+      "het": 1,
+      "napok": [
+        {
+          "nap": "Hétfő",
+          "etel": "Fetás-sütőtökös frittata zöldsalátával",
+          "ido_perc": 35,
+          "cimkek": [
+            "tojás",
+            "vegetáriánus"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "tojás",
+              "mennyiseg": 8,
+              "egyseg": "db"
+            },
+            {
+              "nev": "sütőtök",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "feta",
+              "mennyiseg": 100,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "szárított kakukkfű",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "salátalevél",
+              "mennyiseg": 200,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj (saláta)",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "citromlé",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            }
+          ],
+          "elkeszites": [
+            "1. A kockázott sütőtököt és a hagymát sütőálló serpenyőben az olajon 12 percig pirítod, fedő alatt puhára.",
+            "2. A tojást sóval, borssal, kakukkfűvel felversz, ráöntöd, a morzsolt fetát rászórod.",
+            "3. 180 °C-on 15-18 percig sütöd, amíg megdermed.",
+            "4. A salátát citromos olajjal öntöd le."
+          ]
+        },
+        {
+          "nap": "Kedd",
+          "etel": "Csirkemell zöldséges wok rizstésztával",
+          "ido_perc": 30,
+          "cimkek": [
+            "csirke",
+            "tészta"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "csirkemellfilé, csíkokra vágva",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "rizstészta (GF)",
+              "mennyiseg": 200,
+              "egyseg": "g"
+            },
+            {
+              "nev": "paprika",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "sárgarépa",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "brokkoli",
+              "mennyiseg": 200,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "reszelt gyömbér",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "kurkuma",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "chili pehely"
+            },
+            {
+              "nev": "citrom (leve)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "só"
+            }
+          ],
+          "elkeszites": [
+            "1. A rizstésztát a csomagolás szerint áztatod vagy főzöd, leszűröd.",
+            "2. A húst forró olajon két részletben, sózva átpirítod, kiveszed.",
+            "3. A csíkozott zöldségeket 5-6 percig pirítod, a fokhagymát, gyömbért, kurkumát, chilit hozzáadod.",
+            "4. A húst és a tésztát visszateszed, citromlével összeforgatod. (Ha használsz szójaszószt, csak GF-jelölésű tamarit.)"
+          ]
+        },
+        {
+          "nap": "Szerda",
+          "etel": "Hekkfilé cukkinis-paprikás ágyon, főtt burgonyával",
+          "ido_perc": 40,
+          "cimkek": [
+            "hal"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "hekkfilé (felolvasztva)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "cukkini",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paprika",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "citrom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 800,
+              "egyseg": "g"
+            },
+            {
+              "nev": "kapor"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát megfőzöd.",
+            "2. A szeletelt cukkinit, paprikát, hagymát és fokhagymát olajjal, sóval tepsibe teszed, 200 °C-on 15 percig sütöd.",
+            "3. A sózott, paprikás halat ráfekteted, citromkarikákat teszel mellé, további 12-15 percig sütöd.",
+            "4. Kaporral tálalod."
+          ]
+        },
+        {
+          "nap": "Csütörtök",
+          "etel": "Sertéstokány gombával, pirított burgonyával",
+          "ido_perc": 45,
+          "cimkek": [
+            "sertés"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "sertéskaraj, csíkokra vágva",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paprika",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paradicsom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "csiperke",
+              "mennyiseg": 250,
+              "egyseg": "g"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "majoránna",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "tejföl",
+              "mennyiseg": 1.5,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "víz",
+              "mennyiseg": 1,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 800,
+              "egyseg": "g"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát kockázva megfőzöd, majd olajon aranyszínűre pirítod.",
+            "2. A húst forró olajon pirítod, kiveszed.",
+            "3. A hagymát megdinszteled, lehúzod a tűzről, paprikát adsz hozzá.",
+            "4. Hozzáadod a gombát, paprikát, paradicsomot, fokhagymát, vizet, a húst, és 20 percig fedő alatt párolod.",
+            "5. Tejföllel simítod."
+          ]
+        },
+        {
+          "nap": "Péntek",
+          "etel": "Padlizsános-mozzarellás GF fusilli",
+          "ido_perc": 35,
+          "cimkek": [
+            "vegetáriánus",
+            "tészta"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "GF fusilli",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            },
+            {
+              "nev": "padlizsán",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "hámozott paradicsom (konzerv)",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "mozzarella",
+              "mennyiseg": 250,
+              "egyseg": "g"
+            },
+            {
+              "nev": "szárított oregánó",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "bazsalikom"
+            },
+            {
+              "nev": "parmezán",
+              "mennyiseg": 30,
+              "egyseg": "g"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A kockázott padlizsánt sózva, olajon 10 percig pirítod.",
+            "2. Hozzáadod a fokhagymát, paradicsomot, oregánót, 10 percig főzöd.",
+            "3. A tésztát a csomagolás szerint megfőzöd, belekevered.",
+            "4. A morzsolt mozzarellát ráhalmozod, fedő alatt vagy 5 percig grill alatt megolvasztod.",
+            "5. Parmezánnal, bazsalikommal tálalod."
+          ]
+        },
+        {
+          "nap": "Szombat",
+          "etel": "Marhasztroganoff rizzsel",
+          "ido_perc": 40,
+          "cimkek": [
+            "marha"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "marhahátszín, csíkokra vágva",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "csiperke",
+              "mennyiseg": 300,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "savanyú uborka",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paradicsompüré",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "tejföl",
+              "mennyiseg": 1.5,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "víz",
+              "mennyiseg": 1,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "rizs",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A rizst megfőzöd.",
+            "2. A húst nagyon forró olajon két részletben gyorsan pirítod, kiveszed.",
+            "3. A hagymát és a gombát megpirítod, hozzáadod a paprikát, paradicsompürét, vizet, 5 percig főzöd.",
+            "4. Visszateszed a húst, a kockázott uborkát, a tejfölt, és csak langyosra melegíted, hogy ne vágjon össze."
+          ]
+        },
+        {
+          "nap": "Vasárnap",
+          "etel": "Kacsamell pirított répával és sült édesburgonyával",
+          "ido_perc": 45,
+          "cimkek": [
+            "kacsa"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "kacsamellfilé",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "édesburgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "sárgarépa",
+              "mennyiseg": 4,
+              "egyseg": "db"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "szárított kakukkfű",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "méz",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "narancs (leve)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. Az édesburgonyacikkeket olajjal, sóval, kakukkfűvel 200 °C-on 30 percig sütöd.",
+            "2. A kacsamell bőrét berovátkolod, hideg serpenyőben, bőrrel lefelé 8-10 percig sütöd, megfordítod, 3 percig sütöd, majd 8-10 percre a sütőbe teszed.",
+            "3. 5 percig pihentetod.",
+            "4. A karikázott répát a kacsazsírban megpirítod, narancslével és mézzel összeforralod.",
+            "5. Szeletelve tálalod."
+          ]
+        }
+      ],
+      "bevasarlolista": {
+        "Zöldség": [
+          "6 vöröshagyma",
+          "1 fej fokhagyma",
+          "4 paprika",
+          "6 sárgarépa",
+          "200 g brokkoli",
+          "2 cukkini",
+          "2 padlizsán (kb. 600 g)",
+          "1 paradicsom",
+          "550 g csiperke",
+          "2 savanyú uborka",
+          "1,6 kg burgonya",
+          "600 g édesburgonya",
+          "400 g sütőtök",
+          "200 g salátalevél",
+          "3 citrom",
+          "1 narancs",
+          "kapor",
+          "bazsalikom",
+          "gyömbér"
+        ],
+        "Hús, hal": [
+          "8 tojás",
+          "500 g csirkemellfilé",
+          "600 g hekkfilé",
+          "600 g sertéskaraj",
+          "500 g marhahátszín",
+          "2 kacsamellfilé (kb. 600 g)"
+        ],
+        "Tejtermék": [
+          "100 g feta",
+          "3 dl tejföl",
+          "250 g mozzarella",
+          "30 g parmezán"
+        ],
+        "Szárazáru és egyéb": [
+          "280 g GF fusilli",
+          "200 g rizstészta (GF)",
+          "280 g rizs",
+          "400 g hámozott paradicsom (konzerv)",
+          "paradicsompüré",
+          "méz",
+          "GF tamari (opcionális)"
+        ],
+        "Fűszerek, olaj": [
+          "olaj",
+          "só",
+          "bors",
+          "szárított kakukkfű",
+          "édes fűszerpaprika",
+          "majoránna",
+          "kurkuma",
+          "chili pehely",
+          "oregánó"
+        ]
+      }
+    },
+    {
+      "het": 2,
+      "napok": [
+        {
+          "nap": "Hétfő",
+          "etel": "Cukkinis-sajtos zöldségfasírt tejfölös-kapros mártással, főtt burgonyával",
+          "ido_perc": 40,
+          "cimkek": [
+            "tojás",
+            "vegetáriánus"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "cukkini",
+              "mennyiseg": 700,
+              "egyseg": "g"
+            },
+            {
+              "nev": "tojás",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "reszelt trappista",
+              "mennyiseg": 100,
+              "egyseg": "g"
+            },
+            {
+              "nev": "rizsliszt",
+              "mennyiseg": 4,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 1,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 4,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "tejföl",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "kapor"
+            },
+            {
+              "nev": "citromlé",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 800,
+              "egyseg": "g"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát megfőzöd.",
+            "2. A lereszelt cukkinit sózod, 10 percig állni hagyod, jól kinyomkodod.",
+            "3. Összekevered a tojással, sajttal, liszttel, fokhagymával, borssal.",
+            "4. Kanálnyi adagokat olajon oldalanként 3-4 percig sütöd.",
+            "5. A tejfölt a kaporral és citromlével elkevered."
+          ]
+        },
+        {
+          "nap": "Kedd",
+          "etel": "Mézes-mustáros csirkemell sült kelbimbóval és kölessel",
+          "ido_perc": 40,
+          "cimkek": [
+            "csirke"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "csirkemellfilé",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "dijoni mustár",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "méz",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 1,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "kelbimbó",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "köles (GF jelöléssel)",
+              "mennyiseg": 200,
+              "egyseg": "g"
+            },
+            {
+              "nev": "víz",
+              "mennyiseg": 5,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A félbevágott kelbimbót 1 ek olajjal, sóval 200 °C-on tepsiben sütöd 25 percig.",
+            "2. A mellfiléket sózod, a mustár-méz-fokhagyma-olaj keverékkel bekened, a kelbimbó mellé teszed az utolsó 18 percre.",
+            "3. A kölest átöblíted, sós vízben fedő alatt 15 percig főzöd, 5 percig pihentetod."
+          ]
+        },
+        {
+          "nap": "Szerda",
+          "etel": "Fokhagymás garnéla GF spagettivel",
+          "ido_perc": 25,
+          "cimkek": [
+            "garnéla",
+            "tészta"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "tisztított garnéla (felolvasztva)",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "GF spagetti",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 4,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 4,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "chili pehely",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "citrom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "bébispenót",
+              "mennyiseg": 100,
+              "egyseg": "g"
+            },
+            {
+              "nev": "petrezselyem"
+            },
+            {
+              "nev": "só"
+            }
+          ],
+          "elkeszites": [
+            "1. A tésztát a csomagolás szerint, egy perccel rövidebben főzöd, kevés főzővizet félreteszel.",
+            "2. A szeletelt fokhagymát és chilit olajon 1 percig pirítod, a garnélát 3-4 percig sütöd.",
+            "3. Hozzáadod a spenótot és a tésztát, kevés tésztalével, citromlével és petrezselyemmel összeforgatod."
+          ]
+        },
+        {
+          "nap": "Csütörtök",
+          "etel": "Fűszeres sertéskaraj tepsis céklával és burgonyával, tormás tejföllel",
+          "ido_perc": 45,
+          "cimkek": [
+            "sertés"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "sertéskaraj (4 szelet)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "előfőzött cékla",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "köménymag",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "majoránna",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "tejföl",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "reszelt torma (GF jelöléssel)",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát és a céklát cikkekre vágva olajjal, köménnyel, sóval tepsiben 200 °C-on 15 percig sütöd.",
+            "2. A húst a fűszerekkel bedörzsölöd, a zöldségek közé teszed, további 22-25 percig sütöd.",
+            "3. A tejfölt a tormával elkevered."
+          ]
+        },
+        {
+          "nap": "Péntek",
+          "etel": "Csicseriborsós-spenótos ragu basmati rizzsel",
+          "ido_perc": 35,
+          "cimkek": [
+            "vegetáriánus",
+            "hüvelyes"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "csicseriborsó (konzerv, lecsepegtetve)",
+              "mennyiseg": 480,
+              "egyseg": "g"
+            },
+            {
+              "nev": "bébispenót",
+              "mennyiseg": 300,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 3,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "hámozott paradicsom (konzerv)",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "őrölt kömény",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "őrölt koriander",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "citrom (leve)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "basmati rizs",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            },
+            {
+              "nev": "natúr joghurt",
+              "mennyiseg": 1,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "só"
+            }
+          ],
+          "elkeszites": [
+            "1. A rizst megfőzöd.",
+            "2. A hagymát megdinszteled, hozzáadod a fokhagymát és fűszereket.",
+            "3. Felöntöd a paradicsommal, hozzáadod a csicseriborsót, 15 percig főzöd.",
+            "4. A spenótot belekevered, összeesésig főzöd.",
+            "5. Citromlével ízesíted, joghurttal tálalod."
+          ]
+        },
+        {
+          "nap": "Szombat",
+          "etel": "Tepsis pulykamell almával és sült sütőtökkel",
+          "ido_perc": 45,
+          "cimkek": [
+            "pulyka"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "pulykamell szeletek (4 db)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "alma",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "sütőtök",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "dijoni mustár",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "szárított kakukkfű",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A kockázott sütőtököt, a cikkekre vágott almát és a hagymát olajjal, kakukkfűvel, sóval tepsibe teszed, 200 °C-on 15 percig sütöd.",
+            "2. A pulykaszeleteket sózod, borsozod, mustárral bekened, ráfekteted.",
+            "3. További 20-22 percig sütöd, amíg átsül."
+          ]
+        },
+        {
+          "nap": "Vasárnap",
+          "etel": "Marhahátszín steak chimichurrival, sült burgonyával",
+          "ido_perc": 35,
+          "cimkek": [
+            "marha"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "marhahátszín (2 vastag szelet)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "petrezselyem (chimichurri)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma (chimichurri)",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj (chimichurri)",
+              "mennyiseg": 4,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "borecet",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "szárított oregánó",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "chili pehely"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát cikkekre vágva olajjal, sóval 220 °C-on 30 percig sütöd.",
+            "2. A chimichurri hozzávalóit apróra vágod és összekevered.",
+            "3. A szobahőmérsékletű húst sózod, borsozod, nagyon forró serpenyőben oldalanként 3-4 percig sütöd.",
+            "4. Fóliában 5 percig pihentetod, szeletelve chimichurrival tálalod."
+          ]
+        }
+      ],
+      "bevasarlolista": {
+        "Zöldség": [
+          "3 vöröshagyma",
+          "2 fej fokhagyma",
+          "700 g cukkini",
+          "500 g kelbimbó",
+          "500 g előfőzött cékla",
+          "2 kg burgonya",
+          "400 g bébispenót",
+          "2 alma",
+          "500 g sütőtök",
+          "3 citrom",
+          "2 csokor petrezselyem",
+          "1 csokor kapor"
+        ],
+        "Hús, hal": [
+          "2 tojás",
+          "600 g csirkemellfilé",
+          "400 g tisztított garnéla (fagyasztott)",
+          "600 g sertéskaraj",
+          "600 g pulykamell",
+          "600 g marhahátszín"
+        ],
+        "Tejtermék": [
+          "100 g reszelt trappista",
+          "4 dl tejföl",
+          "1 dl natúr joghurt"
+        ],
+        "Szárazáru és egyéb": [
+          "4 ek rizsliszt",
+          "200 g köles (GF)",
+          "280 g GF spagetti",
+          "2 doboz csicseriborsó",
+          "400 g hámozott paradicsom (konzerv)",
+          "280 g basmati rizs",
+          "dijoni mustár",
+          "méz",
+          "reszelt torma (üveges)",
+          "borecet"
+        ],
+        "Fűszerek, olaj": [
+          "olaj",
+          "só",
+          "bors",
+          "őrölt kömény",
+          "őrölt koriander",
+          "édes fűszerpaprika",
+          "köménymag",
+          "majoránna",
+          "kakukkfű",
+          "oregánó",
+          "chili pehely"
+        ]
+      }
+    },
+    {
+      "het": 3,
+      "napok": [
+        {
+          "nap": "Hétfő",
+          "etel": "Spanyol tortilla paprikasalátával",
+          "ido_perc": 40,
+          "cimkek": [
+            "tojás",
+            "vegetáriánus"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "burgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma (nagy)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "tojás",
+              "mennyiseg": 8,
+              "egyseg": "db"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 5,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "paprika",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paradicsom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "ecet",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "olaj (saláta)",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            }
+          ],
+          "elkeszites": [
+            "1. A vékonyra szeletelt burgonyát és hagymát 3 ek olajon fedő alatt 15-18 percig puhára sütöd.",
+            "2. A felvert, sózott tojással összekevered.",
+            "3. A maradék olajon serpenyőben 6 percig sütöd, tányér segítségével megfordítod, még 5 percig sütöd.",
+            "4. A paprikát és paradicsomot felszeleteled, ecettel, olajjal ízesíted."
+          ]
+        },
+        {
+          "nap": "Kedd",
+          "etel": "Tandoori csirkecomb filé tepsiben, basmati rizzsel és uborkás joghurttal",
+          "ido_perc": 45,
+          "cimkek": [
+            "csirke"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "csirkecomb filé",
+              "mennyiseg": 700,
+              "egyseg": "g"
+            },
+            {
+              "nev": "natúr joghurt",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "tandoori fűszerkeverék (GF jelöléssel)",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "citrom (leve)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "basmati rizs",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            },
+            {
+              "nev": "natúr joghurt (uborkás joghurthoz)",
+              "mennyiseg": 1,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "uborka",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "kapor"
+            }
+          ],
+          "elkeszites": [
+            "1. A csirkét a joghurttal, fűszerekkel, fokhagymával, citromlével, sóval összekevered, 10-15 percig pihentetod.",
+            "2. 220 °C-on 25 percig sütöd.",
+            "3. A rizst megfőzöd.",
+            "4. A reszelt uborkát a joghurttal és kaporral összekevered."
+          ]
+        },
+        {
+          "nap": "Szerda",
+          "etel": "Tonhalfasírt kapros-joghurtos mártással, párolt zöldbabbal",
+          "ido_perc": 40,
+          "cimkek": [
+            "konzerv hal",
+            "hal"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "tonhal (konzerv, lecsepegtetve)",
+              "mennyiseg": 480,
+              "egyseg": "g"
+            },
+            {
+              "nev": "főtt burgonya",
+              "mennyiseg": 300,
+              "egyseg": "g"
+            },
+            {
+              "nev": "tojás",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "GF zsemlemorzsa",
+              "mennyiseg": 50,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma (kicsi)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "citrom (héja)",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "petrezselyem"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 4,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "zöldbab",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "natúr joghurt",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "kapor"
+            },
+            {
+              "nev": "citromlé",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát héjában megfőzöd (kb. 20 perc), megpucolod, megnyomkodod.",
+            "2. Összekevered a tonhallal, tojással, morzsával, reszelt hagymával, citromhéjjal, petrezselyemmel, 8 fasírtot formázol.",
+            "3. Olajon oldalanként 4 percig sütöd.",
+            "4. A zöldbabot sós vízben 8 percig főzöd.",
+            "5. A mártás hozzávalóit összekevered."
+          ]
+        },
+        {
+          "nap": "Csütörtök",
+          "etel": "Sütőben sült cordon bleu GF morzsával, vajas zöldségekkel",
+          "ido_perc": 45,
+          "cimkek": [
+            "sertés"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "sertéskaraj (4 szelet, vékonyra klopfolva)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "főtt sonka (GF jelöléssel)",
+              "mennyiseg": 4,
+              "egyseg": "db"
+            },
+            {
+              "nev": "trappista szelet",
+              "mennyiseg": 100,
+              "egyseg": "g"
+            },
+            {
+              "nev": "rizsliszt",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "tojás",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "GF zsemlemorzsa",
+              "mennyiseg": 80,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "sárgarépa",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "fagyasztott zöldborsó",
+              "mennyiseg": 300,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vaj",
+              "mennyiseg": 15,
+              "egyseg": "g"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            }
+          ],
+          "elkeszites": [
+            "1. A húsokat sózod, borsozod, egyik felére sonkát és sajtot teszel, összehajtod.",
+            "2. Lisztbe, tojásba, morzsába forgatod.",
+            "3. Olajjal meglocsolva sütőpapíros tepsin 200 °C-on 25-30 percig sütöd, félúton megfordítod.",
+            "4. A burgonyát megfőzöd, a karikázott répát 8 percig főzöd, a borsót 3 percig, vajjal összeforgatod."
+          ]
+        },
+        {
+          "nap": "Péntek",
+          "etel": "Lecsó tojással, rizzsel",
+          "ido_perc": 35,
+          "cimkek": [
+            "tojás",
+            "vegetáriánus"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "paprika",
+              "mennyiseg": 6,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paradicsom",
+              "mennyiseg": 3,
+              "egyseg": "db"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "cukor",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "tojás",
+              "mennyiseg": 6,
+              "egyseg": "db"
+            },
+            {
+              "nev": "rizs",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            },
+            {
+              "nev": "só"
+            }
+          ],
+          "elkeszites": [
+            "1. A rizst megfőzöd.",
+            "2. A hagymát megdinszteled, lehúzod, paprikát adsz hozzá.",
+            "3. Hozzáadod a csíkozott paprikát, a paradicsomot, fokhagymát, sót, cukrot, fedő alatt 20 percig főzöd.",
+            "4. A tojásokat a lecsóba ütöd, fedő alatt 4-5 percig főzöd, vagy előtte felversz és kevergetve beleforgatod."
+          ]
+        },
+        {
+          "nap": "Szombat",
+          "etel": "Darált marhás töltött cukkini paradicsomszósszal",
+          "ido_perc": 45,
+          "cimkek": [
+            "marha"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "cukkini",
+              "mennyiseg": 4,
+              "egyseg": "db"
+            },
+            {
+              "nev": "natúr darált marhahús",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "rizs",
+              "mennyiseg": 100,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "tojás",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "hámozott paradicsom (konzerv)",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "szárított oregánó",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "reszelt trappista",
+              "mennyiseg": 100,
+              "egyseg": "g"
+            }
+          ],
+          "elkeszites": [
+            "1. A rizst 10 percig félig megfőzöd, leszűröd.",
+            "2. A cukkinit hosszában félbevágod, kikanalazod.",
+            "3. A húst a rizzsel, reszelt hagymával, fokhagymával, tojással, fűszerekkel összegyúrod, megtöltöd.",
+            "4. Tepsibe teszed, ráöntöd a megfőzött paradicsomszószt (olaj, oregánó, só).",
+            "5. Fóliával fedve 190 °C-on 25 percig sütöd, a végén sajttal megszórva 5 percig fólia nélkül. Ha a töltelék nem puha, hosszabb ideig sütheted."
+          ]
+        },
+        {
+          "nap": "Vasárnap",
+          "etel": "Serpenyős lazac citromos-kapros tejfölszósszal, brokkolival és burgonyával",
+          "ido_perc": 35,
+          "cimkek": [
+            "hal"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "lazacfilé (4 db)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "brokkoli",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "tejföl",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "citrom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "kapor"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát megfőzöd, a brokkolit sós vízben 5 percig főzöd.",
+            "2. A sózott lazacot olajon bőrével lefelé 5 percig, majd megfordítva 3 percig sütöd.",
+            "3. A tejfölt a citromlével, kaporral, sóval, borssal elkevered, langyosan a hal mellé tálalod."
+          ]
+        }
+      ],
+      "bevasarlolista": {
+        "Zöldség": [
+          "5 vöröshagyma",
+          "1 fej fokhagyma",
+          "8 paprika",
+          "4 paradicsom",
+          "1 uborka",
+          "500 g zöldbab",
+          "400 g sárgarépa",
+          "300 g fagyasztott zöldborsó",
+          "4 cukkini (kb. 1 kg)",
+          "500 g brokkoli",
+          "1,8 kg burgonya",
+          "3 citrom",
+          "2 csokor kapor",
+          "1 csokor petrezselyem"
+        ],
+        "Hús, hal": [
+          "20 tojás",
+          "700 g csirkecomb filé",
+          "3 doboz tonhal",
+          "600 g sertéskaraj",
+          "4 szelet főtt sonka (GF jelöléssel)",
+          "400 g natúr darált marhahús",
+          "4 lazacfilé (600 g)"
+        ],
+        "Tejtermék": [
+          "5 dl natúr joghurt",
+          "200 g trappista",
+          "2 dl tejföl",
+          "15 g vaj"
+        ],
+        "Szárazáru és egyéb": [
+          "280 g basmati rizs",
+          "380 g rizs",
+          "3 ek rizsliszt",
+          "200 g GF zsemlemorzsa",
+          "400 g hámozott paradicsom (konzerv)",
+          "tandoori fűszerkeverék (GF jelöléssel)",
+          "ecet"
+        ],
+        "Fűszerek, olaj": [
+          "olaj",
+          "só",
+          "bors",
+          "édes fűszerpaprika",
+          "oregánó",
+          "cukor"
+        ]
+      }
+    },
+    {
+      "het": 4,
+      "napok": [
+        {
+          "nap": "Hétfő",
+          "etel": "Gombapaprikás hajdinával",
+          "ido_perc": 35,
+          "cimkek": [
+            "gomba",
+            "vegetáriánus"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "csiperke",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "majoránna",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "víz",
+              "mennyiseg": 1,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "tejföl",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "hajdina (GF jelöléssel)",
+              "mennyiseg": 200,
+              "egyseg": "g"
+            },
+            {
+              "nev": "víz (hajdinához)",
+              "mennyiseg": 4.5,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "petrezselyem"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A hajdinát átöblíted, sós vízben fedő alatt 15 percig főzöd, 5 percig pihentetod.",
+            "2. A hagymát megdinszteled, lehúzod a tűzről, paprikát adsz hozzá.",
+            "3. Hozzáadod a negyedelt gombát, fokhagymát, majorannát, 1 dl vizet, 15 percig főzöd.",
+            "4. Tejföllel simítod, petrezselyemmel szórod."
+          ]
+        },
+        {
+          "nap": "Kedd",
+          "etel": "Citromos-kapribogyós csirkemell párolt karfiollal és rizzsel",
+          "ido_perc": 35,
+          "cimkek": [
+            "csirke"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "csirkemellfilé, vékony szeletekre vágva",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "rizsliszt",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "vaj",
+              "mennyiseg": 20,
+              "egyseg": "g"
+            },
+            {
+              "nev": "citrom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "kapribogyó",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "víz vagy GF alaplé",
+              "mennyiseg": 1.5,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "petrezselyem"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "karfiol",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "rizs",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            }
+          ],
+          "elkeszites": [
+            "1. A rizst megfőzöd, a karfiolrózsákat sós vízben 8 percig főzöd.",
+            "2. A húst sózod, borsozod, lisztbe forgatod, olajon oldalanként 3 percig sütöd, kiveszed.",
+            "3. A serpenyőbe teszed a vajat, citromlevet, kapribogyót, alaplevet, 3 percig forralod.",
+            "4. A húst visszateszed, petrezselyemmel tálalod."
+          ]
+        },
+        {
+          "nap": "Szerda",
+          "etel": "Mandulakérgű pangasius sült cukkinivel, főtt burgonyával",
+          "ido_perc": 35,
+          "cimkek": [
+            "hal"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "pangasiusfilé (4 db, felolvasztva)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "őrölt mandula",
+              "mennyiseg": 60,
+              "egyseg": "g"
+            },
+            {
+              "nev": "GF zsemlemorzsa",
+              "mennyiseg": 20,
+              "egyseg": "g"
+            },
+            {
+              "nev": "dijoni mustár",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "citrom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "cukkini",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "kapor"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A burgonyát megfőzöd.",
+            "2. A halat sózod, borsozod, vékonyan mustárral megkened, a mandula-morzsa keverékbe nyomod.",
+            "3. A karikázott cukkinivel sütőpapíros tepsire teszed, olajjal meglocsolod.",
+            "4. 200 °C-on 15-18 percig sütöd.",
+            "5. Citrommal és kaporral tálalod."
+          ]
+        },
+        {
+          "nap": "Csütörtök",
+          "etel": "Sertéskaraj borsos-tejszínes szósszal, brokkolival és kölessel",
+          "ido_perc": 40,
+          "cimkek": [
+            "sertés"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "sertéskaraj (4 szelet)",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "főzőtejszín",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "zöldbors (üveges, leszűrve)",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "víz",
+              "mennyiseg": 1,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "brokkoli",
+              "mennyiseg": 400,
+              "egyseg": "g"
+            },
+            {
+              "nev": "köles (GF)",
+              "mennyiseg": 200,
+              "egyseg": "g"
+            },
+            {
+              "nev": "víz (kölesnek)",
+              "mennyiseg": 5,
+              "egyseg": "dl"
+            }
+          ],
+          "elkeszites": [
+            "1. A kölest sós vízben fedő alatt 15 percig főzöd, pihentetod.",
+            "2. A húst sózod, olajon oldalanként 4 percig sütöd, kiveszed.",
+            "3. A serpenyőben megdinszteled a hagymát, hozzáadod a zöldborsot, vizet, tejszínt, 4-5 percig sűrítve főzöd, a húst visszateszed.",
+            "4. A brokkolit sós vízben 5 percig főzöd."
+          ]
+        },
+        {
+          "nap": "Péntek",
+          "etel": "Halloumis sült zöldségtepsi tzatzikivel",
+          "ido_perc": 40,
+          "cimkek": [
+            "vegetáriánus",
+            "sajt"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "halloumi",
+              "mennyiseg": 250,
+              "egyseg": "g"
+            },
+            {
+              "nev": "cukkini",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paprika",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "koktélparadicsom",
+              "mennyiseg": 300,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "szárított oregánó",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            },
+            {
+              "nev": "natúr joghurt",
+              "mennyiseg": 2,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "uborka",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 1,
+              "egyseg": "gerezd"
+            }
+          ],
+          "elkeszites": [
+            "1. A kisebb kockákra vágott burgonyát olajjal, sóval 220 °C-on 15 percig sütöd.",
+            "2. Hozzáadod a kockázott cukkinit, paprikát, hagymát, oregánót, további 12 percig sütöd.",
+            "3. A kockázott halloumit és a paradicsomot ráteszed, 8-10 percig sütöd.",
+            "4. A reszelt uborkát, fokhagymát és sót a joghurttal elkevered."
+          ]
+        },
+        {
+          "nap": "Szombat",
+          "etel": "Sült rizs pulykával és zöldségekkel",
+          "ido_perc": 35,
+          "cimkek": [
+            "pulyka",
+            "tojás"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "pulykamell, csíkokra vágva",
+              "mennyiseg": 500,
+              "egyseg": "g"
+            },
+            {
+              "nev": "rizs",
+              "mennyiseg": 280,
+              "egyseg": "g"
+            },
+            {
+              "nev": "tojás",
+              "mennyiseg": 3,
+              "egyseg": "db"
+            },
+            {
+              "nev": "sárgarépa",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fagyasztott zöldborsó",
+              "mennyiseg": 200,
+              "egyseg": "g"
+            },
+            {
+              "nev": "paprika",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "reszelt gyömbér",
+              "mennyiseg": 1,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 3,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "citrom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "újhagyma"
+            },
+            {
+              "nev": "só"
+            }
+          ],
+          "elkeszites": [
+            "1. A rizst megfőzöd és kiterítve hűtöd.",
+            "2. A pulykát forró olajon pirítod, kiveszed.",
+            "3. A kockázott zöldségeket, fokhagymát, gyömbért 6 percig pirítod.",
+            "4. Félretolod, a felvert tojást megsütöd, beleforgatod a rizst és a húst, 3-4 percig pirítod.",
+            "5. Citromlével és újhagymával tálalod."
+          ]
+        },
+        {
+          "nap": "Vasárnap",
+          "etel": "Gyors marhapaprikás hátszínből, burgonyával",
+          "ido_perc": 45,
+          "cimkek": [
+            "marha"
+          ],
+          "hozzavalok": [
+            {
+              "nev": "marhahátszín, kockákra vágva",
+              "mennyiseg": 600,
+              "egyseg": "g"
+            },
+            {
+              "nev": "vöröshagyma",
+              "mennyiseg": 2,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paprika",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "paradicsom",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "fokhagyma",
+              "mennyiseg": 2,
+              "egyseg": "gerezd"
+            },
+            {
+              "nev": "olaj",
+              "mennyiseg": 2,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "édes fűszerpaprika",
+              "mennyiseg": 1.5,
+              "egyseg": "ek"
+            },
+            {
+              "nev": "köménymag",
+              "mennyiseg": 1,
+              "egyseg": "tk"
+            },
+            {
+              "nev": "babérlevél",
+              "mennyiseg": 1,
+              "egyseg": "db"
+            },
+            {
+              "nev": "víz",
+              "mennyiseg": 4,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "burgonya",
+              "mennyiseg": 800,
+              "egyseg": "g"
+            },
+            {
+              "nev": "tejföl",
+              "mennyiseg": 1,
+              "egyseg": "dl"
+            },
+            {
+              "nev": "só"
+            },
+            {
+              "nev": "bors"
+            }
+          ],
+          "elkeszites": [
+            "1. A hagymát olajon megdinszteled, lehúzod a tűzről, paprikát adsz hozzá.",
+            "2. Hozzáadod a kockázott húst, sót, köményt, babérlevelet, paprikát, paradicsomot, vizet, és 10 percig főzöd.",
+            "3. Beleteszed a kockázott burgonyát, további 20 percig főzöd.",
+            "4. A tejfölt a végén simítod bele."
+          ]
+        }
+      ],
+      "bevasarlolista": {
+        "Zöldség": [
+          "7 vöröshagyma",
+          "1 fej fokhagyma",
+          "600 g csiperke",
+          "500 g karfiol",
+          "400 g brokkoli",
+          "4 cukkini",
+          "4 paprika",
+          "300 g koktélparadicsom",
+          "1 paradicsom",
+          "1 uborka",
+          "2 sárgarépa",
+          "200 g fagyasztott zöldborsó",
+          "2,6 kg burgonya",
+          "3 citrom",
+          "1 csokor petrezselyem",
+          "1 csokor kapor",
+          "1 csokor újhagyma",
+          "gyömbér"
+        ],
+        "Hús, hal": [
+          "3 tojás",
+          "600 g csirkemellfilé",
+          "600 g pangasiusfilé",
+          "600 g sertéskaraj",
+          "250 g halloumi",
+          "500 g pulykamell",
+          "600 g marhahátszín"
+        ],
+        "Tejtermék": [
+          "3 dl tejföl",
+          "2 dl főzőtejszín",
+          "2 dl natúr joghurt",
+          "20 g vaj"
+        ],
+        "Szárazáru és egyéb": [
+          "200 g hajdina (GF)",
+          "200 g köles (GF)",
+          "560 g rizs",
+          "3 ek rizsliszt",
+          "60 g őrölt mandula",
+          "20 g GF zsemlemorzsa",
+          "1 üveg kapribogyó",
+          "1 üveg zöldbors",
+          "GF alaplé (opcionális)",
+          "dijoni mustár"
+        ],
+        "Fűszerek, olaj": [
+          "olaj",
+          "só",
+          "bors",
+          "édes fűszerpaprika",
+          "majoránna",
+          "köménymag",
+          "babérlevél",
+          "oregánó"
+        ]
+      }
+    }
+  ]
+}
