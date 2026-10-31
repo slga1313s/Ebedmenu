@@ -1,0 +1,103 @@
+{
+  "honap": "2026-11",
+  "adag": 2,
+  "hetek": [
+    {
+      "het": 1,
+      "napok": [
+        {
+          "nap": "Hétfő", "etel": "Csirkepaprikás rizzsel", "ido_perc": 40, "cimkek": ["csirke"],
+          "hozzavalok": [
+            {"nev": "csirkecomb filé", "mennyiseg": 400, "egyseg": "g"},
+            {"nev": "vöröshagyma", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "TV paprika", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "paradicsom", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "édes fűszerpaprika", "mennyiseg": 1, "egyseg": "ek"},
+            {"nev": "tejföl", "mennyiseg": 1.5, "egyseg": "dl"},
+            {"nev": "rizs", "mennyiseg": 140, "egyseg": "g"}
+          ],
+          "elkeszites": ["A hagymát olajon megdinszteled, hozzáadod a kockázott húst, fehéredésig pirítod.", "Lehúzod a tűzről, beleforgatod a paprikát, felöntöd 1,5 dl vízzel, hozzáadod a paprikát és a paradicsomot, 25 percig főzöd.", "A tejfölt a végén simítod bele, a megfőzött rizzsel tálalod."]
+        },
+        {
+          "nap": "Kedd", "etel": "Sütőtökös vörös lencse curry, rizzsel", "ido_perc": 35, "cimkek": ["vegetáriánus"],
+          "hozzavalok": [
+            {"nev": "sütőtök", "mennyiseg": 400, "egyseg": "g"},
+            {"nev": "vörös lencse", "mennyiseg": 150, "egyseg": "g"},
+            {"nev": "vöröshagyma", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "fokhagyma", "mennyiseg": 2, "egyseg": "gerezd"},
+            {"nev": "curry por (GF)", "mennyiseg": 1, "egyseg": "ek"},
+            {"nev": "kókusztej", "mennyiseg": 400, "egyseg": "ml"},
+            {"nev": "basmati rizs", "mennyiseg": 140, "egyseg": "g"}
+          ],
+          "elkeszites": ["A hagymát és fokhagymát olajon megdinszteled, hozzáadod a curryt.", "Beleteszed a kockázott sütőtököt, a lencsét, a kókusztejet és 2 dl vizet, 20-25 percig főzöd.", "Citromlével ízesíted, rizzsel tálalod."]
+        },
+        {
+          "nap": "Szerda", "etel": "Sült lazac burgonyával és brokkolival", "ido_perc": 35, "cimkek": ["hal"],
+          "hozzavalok": [
+            {"nev": "lazacfilé", "mennyiseg": 300, "egyseg": "g"},
+            {"nev": "burgonya", "mennyiseg": 500, "egyseg": "g"},
+            {"nev": "brokkoli", "mennyiseg": 300, "egyseg": "g"},
+            {"nev": "citrom", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "olaj", "mennyiseg": 1, "egyseg": "ek"}
+          ],
+          "elkeszites": ["A negyedelt burgonyát olajjal, sóval 200 °C-on 25 percig sütöd.", "A lazacot a végén 12-15 percre teszed mellé.", "A brokkolit 5 percig főzöd, citrommal és kaporral tálalod."]
+        },
+        {
+          "nap": "Csütörtök", "etel": "Sertésszűz gombamártással, burgonyapürével", "ido_perc": 40, "cimkek": ["sertés"],
+          "hozzavalok": [
+            {"nev": "sertésszűz", "mennyiseg": 350, "egyseg": "g"},
+            {"nev": "csiperke", "mennyiseg": 250, "egyseg": "g"},
+            {"nev": "vöröshagyma", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "főzőtejszín", "mennyiseg": 1, "egyseg": "dl"},
+            {"nev": "burgonya", "mennyiseg": 600, "egyseg": "g"},
+            {"nev": "tej", "mennyiseg": 1, "egyseg": "dl"},
+            {"nev": "vaj", "mennyiseg": 15, "egyseg": "g"}
+          ],
+          "elkeszites": ["A burgonyát megfőzöd, tejjel és vajjal pürésíted.", "A szűzmedalionokat oldalanként 3-4 percig sütöd, kiveszed.", "A hagymát és gombát megpirítod, hozzáadod a tejszínt, besűrűsödésig főzöd, a húst visszateszed."]
+        },
+        {
+          "nap": "Péntek", "etel": "GF penne spenótos-ricottás szósszal", "ido_perc": 25, "cimkek": ["vegetáriánus", "tészta"],
+          "hozzavalok": [
+            {"nev": "GF penne", "mennyiseg": 140, "egyseg": "g"},
+            {"nev": "bébispenót", "mennyiseg": 150, "egyseg": "g"},
+            {"nev": "ricotta", "mennyiseg": 125, "egyseg": "g"},
+            {"nev": "fokhagyma", "mennyiseg": 1, "egyseg": "gerezd"},
+            {"nev": "parmezán", "mennyiseg": 20, "egyseg": "g"}
+          ],
+          "elkeszites": ["A tésztát a csomagoláson írtnál egy perccel rövidebben főzöd.", "A fokhagymát olajon pirítod, hozzáadod a spenótot, összeesésig párolod.", "Belekeverd a ricottát, a citromhéjat és egy merőkanál tésztalevet, a tésztát belefordítod."]
+        },
+        {
+          "nap": "Szombat", "etel": "Bolognai GF spagettivel", "ido_perc": 40, "cimkek": ["marha", "tészta"],
+          "hozzavalok": [
+            {"nev": "darált marhahús (natúr)", "mennyiseg": 250, "egyseg": "g"},
+            {"nev": "vöröshagyma", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "sárgarépa", "mennyiseg": 1, "egyseg": "db"},
+            {"nev": "hámozott paradicsom (konzerv)", "mennyiseg": 400, "egyseg": "g"},
+            {"nev": "paradicsompüré", "mennyiseg": 1, "egyseg": "ek"},
+            {"nev": "GF spagetti", "mennyiseg": 140, "egyseg": "g"}
+          ],
+          "elkeszites": ["A hagymát és a reszelt répát olajon puhára dinszteled, hozzáadod a fokhagymát és a húst, morzsalékosra pirítod.", "Beleteszed a paradicsomot, a pürét, az oregánót, 20-25 percig főzöd.", "A tésztát a csomagolás szerint főzöd, egy perccel rövidebben."]
+        },
+        {
+          "nap": "Vasárnap", "etel": "Sült tőkehal paradicsomos-olivabogyós szószban, polentával", "ido_perc": 35, "cimkek": ["hal"],
+          "hozzavalok": [
+            {"nev": "tőkehalfilé", "mennyiseg": 300, "egyseg": "g"},
+            {"nev": "koktélparadicsom", "mennyiseg": 250, "egyseg": "g"},
+            {"nev": "fokhagyma", "mennyiseg": 2, "egyseg": "gerezd"},
+            {"nev": "magozott olivabogyó", "mennyiseg": 40, "egyseg": "g"},
+            {"nev": "kapribogyó", "mennyiseg": 1, "egyseg": "ek"},
+            {"nev": "kukoricadara (GF)", "mennyiseg": 120, "egyseg": "g"}
+          ],
+          "elkeszites": ["A fokhagymát olajon pirítod, hozzáadod a félbevágott paradicsomot, 10 percig főzöd, majd az olivabogyót és a kaprot.", "A sózott halat a szószra fekteted, fedő alatt 8-10 percig párolod.", "A polentát 5 dl vízben a csomagolás szerint főzöd, a végén vajjal simítod."]
+        }
+      ],
+      "bevasarlolista": {
+        "Zöldség": ["4 vöröshagyma", "1 TV paprika", "1 paradicsom", "250 g koktélparadicsom", "1 fej fokhagyma", "1 sárgarépa", "400-500 g sütőtök", "1,1 kg burgonya", "300 g brokkoli", "250 g csiperke", "150 g bébispenót", "2 citrom", "1 csokor petrezselyem/kapor"],
+        "Hús, hal": ["400 g csirkecomb filé", "2 lazacfilé (kb. 300 g)", "2 tőkehalfilé (kb. 300 g)", "350 g sertésszűz", "250 g darált marhahús (natúr)"],
+        "Tejtermék": ["1,5 dl tejföl", "1 dl főzőtejszín", "1 dl tej", "30 g vaj", "125 g ricotta", "40 g parmezán"],
+        "Szárazáru és egyéb": ["280 g rizs (közönséges + basmati)", "150 g vörös lencse", "140 g GF penne", "140 g GF spagetti", "120 g kukoricadara (GF)", "400 ml kókusztej", "400 g hámozott paradicsom (konzerv)", "1 tubus paradicsompüré", "40 g magozott olivabogyó", "1 kis üveg kapribogyó"],
+        "Fűszerek, olaj": ["curry por (GF)", "édes fűszerpaprika", "szárított oregánó", "olaj", "só, bors"]
+      }
+    }
+  ]
+}
