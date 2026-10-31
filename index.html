@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gluténmentes ebédmenü</title>
+<style>
+:root{--bg:#FAFAF7;--ink:#1D2327;--mut:#5F6B70;--line:#DADFDC;--acc:#176B6B}
+@media(prefers-color-scheme:dark){:root{--bg:#161B1D;--ink:#E8ECEB;--mut:#9AA6A9;--line:#2C3538;--acc:#5BC0BA}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+header,nav,.modes,main{max-width:720px;margin:0 auto;padding:0 16px}
+header{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:20px;padding-bottom:8px}
+h1{font:600 1.35rem/1.2 Georgia,serif;margin:0}
+select,button{font:inherit;color:inherit}
+select{background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:6px 8px}
+nav,.modes{display:flex;gap:8px;padding-top:8px;overflow-x:auto}
+nav button,.modes button{border:1px solid var(--line);background:none;border-radius:999px;padding:6px 14px;cursor:pointer;white-space:nowrap}
+button.on{background:var(--acc);border-color:var(--acc);color:var(--bg)}
+main{padding-bottom:40px}
+details{border-bottom:1px solid var(--line)}
+summary{display:grid;grid-template-columns:5.5rem 1fr auto;gap:8px;padding:14px 0;cursor:pointer;list-style:none}
+summary::-webkit-details-marker{display:none}
+.nap,.ido{color:var(--mut)}.etel{font-weight:600}.ido{font-size:.9rem}
+h3{font-size:1rem;margin:16px 0 6px}
+ul,ol{margin:0;padding-left:1.2rem}
+.rate{margin:16px 0;display:flex;gap:6px;align-items:center}
+.rate button{width:36px;height:36px;border-radius:50%;border:1px solid var(--line);background:none;cursor:pointer}
+.ck{list-style:none;padding:0}.ck li{padding:6px 0}.ck label{display:flex;gap:10px;cursor:pointer}
+.ck input:checked+span{text-decoration:line-through;color:var(--mut)}
+.err{padding:16px;border:1px solid var(--acc);border-radius:8px}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+</style>
+</head>
+<body>
+<header><h1>Gluténmentes ebédmenü</h1><select id="honap" aria-label="Hónap"></select></header>
+<nav id="hetek" aria-label="Hetek"></nav>
+<div class="modes"><button data-m="menu" class="on">Menü</button><button data-m="lista">Bevásárlólista</button></div>
+<main id="app"><p>Betöltés…</p></main>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const S={adat:null,het:1,mod:'menu'};
+const key=(t,het,x)=>`ebed:${t}:${S.adat.honap}:${het}:${x}`;
+
+async function load(u){const r=await fetch(u);if(!r.ok)throw new Error(u+' ('+r.status+')');return r.json()}
+function fail(e){$('#app').innerHTML='<p class="err">Nem sikerült betölteni a menüt: '+esc(e.message)+'. Ellenőrizd, hogy a data mappa fel van-e töltve, és hogy a JSON formátuma helyes.</p>'}
+
+async function init(){
+  try{
+    const idx=await load('data/index.json');
+    if(!Array.isArray(idx.honapok)||!idx.honapok.length)throw new Error('az index.json-ból hiányzik a "honapok" lista');
+    const sel=$('#honap');
+    sel.innerHTML=idx.honapok.map(h=>`<option value="${esc(h.fajl)}">${esc(h.nev)}</option>`).join('');
+    sel.onchange=()=>openMonth(sel.value);
+    await openMonth(idx.honapok[0].fajl);
+  }catch(e){fail(e)}
+}
+async function openMonth(f){
+  try{
+    const d=await load('data/'+f);
+    if(!Array.isArray(d.hetek)||!d.hetek.length)throw new Error('a menüfájlból hiányzik a "hetek" lista');
+    S.adat=d;S.het=d.hetek[0].het;render();
+  }catch(e){fail(e)}
+}
+function render(){
+  const d=S.adat,w=d.hetek.find(h=>h.het==S.het);
+  $('#hetek').innerHTML=d.hetek.map(h=>`<button data-h="${h.het}" class="${h.het==S.het?'on':''}">${h.het}. hét</button>`).join('');
+  document.querySelectorAll('.modes button').forEach(b=>b.classList.toggle('on',b.dataset.m==S.mod));
+  $('#app').innerHTML=S.mod=='menu'?menu(w):lista(w);
+}
+function menu(w){
+  return (w.napok||[]).map((n,i)=>{
+    const k=key('r',w.het,i),r=store.get(k)||0;
+    const hv=(n.hozzavalok||[]).map(x=>`<li>${esc([x.mennyiseg,x.egyseg].filter(Boolean).join(' '))} ${esc(x.nev)}</li>`).join('');
+    const el=(n.elkeszites||[]).map(x=>`<li>${esc(x)}</li>`).join('');
+    return `<details><summary><span class="nap">${esc(n.nap)}</span><span class="etel">${esc(n.etel)}</span><span class="ido">${esc(n.ido_perc)} perc</span></summary>
+<h3>Hozzávalók (${esc(S.adat.adag)} adag)</h3><ul>${hv}</ul><h3>Elkészítés</h3><ol>${el}</ol>
+<div class="rate" data-k="${k}"><span>Értékelés:</span>${[1,2,3,4,5].map(v=>`<button data-r="${v}" class="${v<=r?'on':''}" aria-label="${v} pont">${v}</button>`).join('')}</div></details>`;
+  }).join('')||'<p>Ehhez a héthez nincs menü.</p>';
+}
+function lista(w){
+  const l=w.bevasarlolista||{};
+  return Object.entries(l).map(([kat,items])=>`<h3>${esc(kat)}</h3><ul class="ck">${items.map((t,i)=>{
+    const k=key('c',w.het,kat+i);
+    return `<li><label><input type="checkbox" data-k="${k}" ${store.get(k)?'checked':''}><span>${esc(t)}</span></label></li>`}).join('')}</ul>`).join('')||'<p>Ehhez a héthez nincs bevásárlólista.</p>';
+}
+document.addEventListener('click',e=>{
+  const b=e.target.closest('button');if(!b)return;
+  if(b.dataset.h){S.het=+b.dataset.h;render()}
+  else if(b.dataset.m){S.mod=b.dataset.m;render()}
+  else if(b.dataset.r){
+    const box=b.parentElement,v=+b.dataset.r;
+    store.set(box.dataset.k,v);
+    box.querySelectorAll('button').forEach(x=>x.classList.toggle('on',+x.dataset.r<=v));
+  }
+});
+document.addEventListener('change',e=>{if(e.target.dataset.k&&e.target.type=='checkbox')store.set(e.target.dataset.k,e.target.checked)});
+init();
+</script>
+</body>
+</html>
